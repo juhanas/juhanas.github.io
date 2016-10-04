@@ -1,0 +1,12 @@
+User-agent: *
+Disallow: /index.html
+Disallow: /about.html
+Disallow: /freetime.html
+Disallow: /introduction.html
+Disallow: /projects.html
+Disallow: /resume.html
+Disallow: /css
+Disallow: /fonts
+Disallow: /images
+Disallow: /js
+Disallow: /sass
